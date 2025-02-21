@@ -22,7 +22,7 @@ MemoryCaptures/
 *.svd
 
 # === Unity Asset Meta Files ===
-*.meta
+# *.meta
 
 # === Ignore Unity Builds ===
 *.apk
